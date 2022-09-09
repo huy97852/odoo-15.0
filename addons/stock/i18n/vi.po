@@ -8157,7 +8157,7 @@ msgstr ""
 #. module: stock
 #: model_terms:ir.ui.view,arch_db:stock.view_production_lot_tree
 msgid "Transfer to"
-msgstr ""
+msgstr "Giao cho"
 
 #. module: stock
 #: model:ir.actions.act_window,name:stock.action_picking_tree_all
