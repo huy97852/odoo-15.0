@@ -162,7 +162,7 @@ msgstr "Biết ngôn ngữ khác"
 #. module: website_hr_recruitment
 #: model_terms:ir.ui.view,arch_db:website_hr_recruitment.default_website_description
 msgid "Administrative Work"
-msgstr "Công việc Quản trị"
+msgstr "Công việc Hành chính"
 
 #. module: website_hr_recruitment
 #: model_terms:ir.ui.view,arch_db:website_hr_recruitment.job_filter_by_countries
@@ -177,7 +177,7 @@ msgstr "Tất cả Phòng ban"
 #. module: website_hr_recruitment
 #: model_terms:ir.ui.view,arch_db:website_hr_recruitment.job_filter_by_offices
 msgid "All Offices"
-msgstr "Tất cả Nhân viên"
+msgstr "Tất cả Văn phòng"
 
 #. module: website_hr_recruitment
 #: model:ir.model,name:website_hr_recruitment.model_hr_applicant
@@ -266,8 +266,8 @@ msgstr "Tạo nội dung hỗ trợ người dùng hằng ngày"
 msgid ""
 "Create new job pages from the <strong><i>+New</i></strong> top-right button."
 msgstr ""
-"Tạo mới các trang việc làm từ <strong><i>+Mới</i></strong>nút trên góc "
-"phải."
+"Tạo mới các trang việc làm từ nút<strong><i>+Mới</i></strong> trên góc "
+"trên bên phải."
 
 #. module: website_hr_recruitment
 #: model_terms:ir.ui.view,arch_db:website_hr_recruitment.default_website_description
@@ -508,12 +508,12 @@ msgstr "Hạn chế phát hành cho website này"
 #. module: website_hr_recruitment
 #: model:ir.model.fields,field_description:website_hr_recruitment.field_hr_job__is_seo_optimized
 msgid "SEO optimized"
-msgstr "Tối ưu tìm kiếm"
+msgstr "Tối ưu SEO"
 
 #. module: website_hr_recruitment
 #: model:ir.model.fields,field_description:website_hr_recruitment.field_hr_job__seo_name
 msgid "Seo name"
-msgstr "Tên tìm kiếm"
+msgstr "Tên cho SEO"
 
 #. module: website_hr_recruitment
 #: model:ir.model.fields,help:website_hr_recruitment.field_hr_job__website_published
@@ -628,7 +628,7 @@ msgstr "Ưu đãi của công ty"
 #. module: website_hr_recruitment
 #: model_terms:ir.ui.view,arch_db:website_hr_recruitment.default_website_description
 msgid "What's great in the job?"
-msgstr "Những điều tuyệt vời về công việc này"
+msgstr "Có gì tuyệt vời ở công việc này?"
 
 #. module: website_hr_recruitment
 #: model_terms:ir.ui.view,arch_db:website_hr_recruitment.thankyou_ir_ui_view
