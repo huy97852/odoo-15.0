@@ -447,7 +447,7 @@ msgstr "Chưa đăng"
 #. module: website_hr_recruitment
 #: model_terms:ir.ui.view,arch_db:website_hr_recruitment.index
 msgid "Our Job Offers"
-msgstr "Các Vị trí đang Tuyển Dụng"
+msgstr "Chúng tôi đang tuyển dụng"
 
 #. module: website_hr_recruitment
 #: model_terms:ir.ui.view,arch_db:website_hr_recruitment.default_website_description
